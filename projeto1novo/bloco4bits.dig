@@ -52,7 +52,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>In0</string>
+          <string>I0</string>
         </entry>
       </elementAttributes>
       <pos x="40" y="80"/>
@@ -66,7 +66,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>In1</string>
+          <string>I1</string>
         </entry>
       </elementAttributes>
       <pos x="120" y="80"/>
@@ -80,7 +80,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>In2</string>
+          <string>I2</string>
         </entry>
       </elementAttributes>
       <pos x="200" y="80"/>
@@ -94,7 +94,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>In3</string>
+          <string>I3</string>
         </entry>
       </elementAttributes>
       <pos x="280" y="80"/>
@@ -118,7 +118,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Out0</string>
+          <string>O0</string>
         </entry>
       </elementAttributes>
       <pos x="40" y="120"/>
@@ -132,7 +132,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Out1</string>
+          <string>O1</string>
         </entry>
       </elementAttributes>
       <pos x="120" y="120"/>
@@ -146,7 +146,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Out2</string>
+          <string>O2</string>
         </entry>
       </elementAttributes>
       <pos x="200" y="120"/>
@@ -160,7 +160,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Out3</string>
+          <string>O3</string>
         </entry>
       </elementAttributes>
       <pos x="280" y="120"/>
