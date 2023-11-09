@@ -5,7 +5,12 @@
   <visualElements>
     <visualElement>
       <elementName>blocoROM.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Bloco 0</string>
+        </entry>
+      </elementAttributes>
       <pos x="1000" y="460"/>
     </visualElement>
     <visualElement>
@@ -201,7 +206,12 @@
     </visualElement>
     <visualElement>
       <elementName>blocoROM.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Bloco 1</string>
+        </entry>
+      </elementAttributes>
       <pos x="1000" y="960"/>
     </visualElement>
     <visualElement>
@@ -331,7 +341,12 @@
     </visualElement>
     <visualElement>
       <elementName>blocoROM.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Bloco 2</string>
+        </entry>
+      </elementAttributes>
       <pos x="1000" y="1460"/>
     </visualElement>
     <visualElement>
@@ -466,7 +481,12 @@
     </visualElement>
     <visualElement>
       <elementName>blocoROM.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Bloco 3</string>
+        </entry>
+      </elementAttributes>
       <pos x="1000" y="1960"/>
     </visualElement>
     <visualElement>
