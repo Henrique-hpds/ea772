@@ -50,6 +50,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>In0</string>
+        </entry>
       </elementAttributes>
       <pos x="40" y="80"/>
     </visualElement>
@@ -59,6 +63,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>In1</string>
         </entry>
       </elementAttributes>
       <pos x="120" y="80"/>
@@ -70,6 +78,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>In2</string>
+        </entry>
       </elementAttributes>
       <pos x="200" y="80"/>
     </visualElement>
@@ -80,12 +92,21 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>In3</string>
+        </entry>
       </elementAttributes>
       <pos x="280" y="80"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>L</string>
+        </entry>
+      </elementAttributes>
       <pos x="-80" y="100"/>
     </visualElement>
     <visualElement>
@@ -94,6 +115,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Out0</string>
         </entry>
       </elementAttributes>
       <pos x="40" y="120"/>
@@ -105,6 +130,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>Out1</string>
+        </entry>
       </elementAttributes>
       <pos x="120" y="120"/>
     </visualElement>
@@ -115,6 +144,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>Out2</string>
+        </entry>
       </elementAttributes>
       <pos x="200" y="120"/>
     </visualElement>
@@ -124,6 +157,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Out3</string>
         </entry>
       </elementAttributes>
       <pos x="280" y="120"/>
