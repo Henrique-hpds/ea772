@@ -4,16 +4,6 @@
   <attributes/>
   <visualElements>
     <visualElement>
-      <elementName>JK_FF</elementName>
-      <elementAttributes/>
-      <pos x="340" y="80"/>
-    </visualElement>
-    <visualElement>
-      <elementName>JK_FF</elementName>
-      <elementAttributes/>
-      <pos x="340" y="200"/>
-    </visualElement>
-    <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
@@ -47,6 +37,16 @@
       <elementName>Const</elementName>
       <elementAttributes/>
       <pos x="320" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>ffjk.dig</elementName>
+      <elementAttributes/>
+      <pos x="340" y="80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>ffjk.dig</elementName>
+      <elementAttributes/>
+      <pos x="340" y="200"/>
     </visualElement>
   </visualElements>
   <wires>
