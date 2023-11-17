@@ -8,7 +8,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>In0</string>
+          <string>I0</string>
         </entry>
       </elementAttributes>
       <pos x="460" y="100"/>
@@ -18,7 +18,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>In1</string>
+          <string>I1</string>
         </entry>
       </elementAttributes>
       <pos x="460" y="160"/>
@@ -28,7 +28,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>In2</string>
+          <string>I2</string>
         </entry>
       </elementAttributes>
       <pos x="460" y="220"/>
@@ -38,7 +38,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>In3</string>
+          <string>I3</string>
         </entry>
       </elementAttributes>
       <pos x="460" y="280"/>
