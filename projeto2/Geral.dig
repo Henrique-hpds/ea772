@@ -31,7 +31,7 @@
     <visualElement>
       <elementName>Out</elementName>
       <elementAttributes/>
-      <pos x="460" y="260"/>
+      <pos x="460" y="320"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -156,9 +156,24 @@
       <pos x="-180" y="220"/>
     </visualElement>
     <visualElement>
-      <elementName>BlocoComplemento.dig</elementName>
+      <elementName>Zerador.dig</elementName>
       <elementAttributes/>
-      <pos x="-40" y="320"/>
+      <pos x="120" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes/>
+      <pos x="80" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes/>
+      <pos x="-120" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes/>
+      <pos x="-180" y="80"/>
     </visualElement>
     <visualElement>
       <elementName>BlocoComplemento.dig</elementName>
@@ -166,9 +181,9 @@
       <pos x="-40" y="0"/>
     </visualElement>
     <visualElement>
-      <elementName>Zerador.dig</elementName>
+      <elementName>BlocoComplemento.dig</elementName>
       <elementAttributes/>
-      <pos x="120" y="320"/>
+      <pos x="-40" y="320"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -251,6 +266,18 @@
     <wire>
       <p1 x="260" y="240"/>
       <p2 x="320" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="80" y="400"/>
+      <p2 x="120" y="400"/>
+    </wire>
+    <wire>
+      <p1 x="-120" y="400"/>
+      <p2 x="-40" y="400"/>
+    </wire>
+    <wire>
+      <p1 x="-180" y="80"/>
+      <p2 x="-40" y="80"/>
     </wire>
     <wire>
       <p1 x="440" y="180"/>
@@ -361,6 +388,10 @@
       <p2 x="300" y="320"/>
     </wire>
     <wire>
+      <p1 x="460" y="260"/>
+      <p2 x="460" y="320"/>
+    </wire>
+    <wire>
       <p1 x="400" y="100"/>
       <p2 x="400" y="120"/>
     </wire>
@@ -377,6 +408,10 @@
       <p2 x="240" y="200"/>
     </wire>
     <wire>
+      <p1 x="80" y="400"/>
+      <p2 x="80" y="500"/>
+    </wire>
+    <wire>
       <p1 x="-180" y="-100"/>
       <p2 x="-180" y="0"/>
     </wire>
@@ -387,6 +422,10 @@
     <wire>
       <p1 x="180" y="60"/>
       <p2 x="180" y="140"/>
+    </wire>
+    <wire>
+      <p1 x="-120" y="400"/>
+      <p2 x="-120" y="500"/>
     </wire>
     <wire>
       <p1 x="440" y="160"/>
