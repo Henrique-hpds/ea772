@@ -580,19 +580,9 @@
       <pos x="1080" y="2280"/>
     </visualElement>
     <visualElement>
-      <elementName>Seletor.dig</elementName>
-      <elementAttributes/>
-      <pos x="940" y="460"/>
-    </visualElement>
-    <visualElement>
       <elementName>Contador.dig</elementName>
       <elementAttributes/>
       <pos x="800" y="460"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Seletor.dig</elementName>
-      <elementAttributes/>
-      <pos x="940" y="960"/>
     </visualElement>
     <visualElement>
       <elementName>Contador.dig</elementName>
@@ -600,19 +590,9 @@
       <pos x="800" y="960"/>
     </visualElement>
     <visualElement>
-      <elementName>Seletor.dig</elementName>
-      <elementAttributes/>
-      <pos x="940" y="1460"/>
-    </visualElement>
-    <visualElement>
       <elementName>Contador.dig</elementName>
       <elementAttributes/>
       <pos x="800" y="1460"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Seletor.dig</elementName>
-      <elementAttributes/>
-      <pos x="940" y="1960"/>
     </visualElement>
     <visualElement>
       <elementName>Contador.dig</elementName>
@@ -634,11 +614,6 @@
       <pos x="720" y="360"/>
     </visualElement>
     <visualElement>
-      <elementName>Seletor.dig</elementName>
-      <elementAttributes/>
-      <pos x="500" y="460"/>
-    </visualElement>
-    <visualElement>
       <elementName>Contador.dig</elementName>
       <elementAttributes/>
       <pos x="400" y="460"/>
@@ -656,6 +631,31 @@
         </entry>
       </elementAttributes>
       <pos x="380" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Demux.dig</elementName>
+      <elementAttributes/>
+      <pos x="940" y="460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Demux.dig</elementName>
+      <elementAttributes/>
+      <pos x="500" y="460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Demux.dig</elementName>
+      <elementAttributes/>
+      <pos x="940" y="960"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Demux.dig</elementName>
+      <elementAttributes/>
+      <pos x="940" y="1460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Demux.dig</elementName>
+      <elementAttributes/>
+      <pos x="940" y="1960"/>
     </visualElement>
   </visualElements>
   <wires>
